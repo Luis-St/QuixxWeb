@@ -1,0 +1,6 @@
+# JetBrains
+.idea
+
+# C#
+bin
+obj
